@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945217121097",
+    "project_id": "formify-144f9",
+    "storage_bucket": "formify-144f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945217121097:android:5205026fdab75bd18a0898",
+        "android_client_info": {
+          "package_name": "com.example.formify_google_form_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945217121097-bs2fe6tmv0rq0q4hv0mmoh5o1d1t2hnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formify_google_form_generator",
+            "certificate_hash": "30951e4ec8313029a56f98523a140413a262f548"
+          }
+        },
+        {
+          "client_id": "945217121097-ka2872p8llpoo6gpjlr48305hkkpevc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelEl-DzWNMf0mki_A9w-EHSkrx5r4hQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945217121097-ka2872p8llpoo6gpjlr48305hkkpevc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
