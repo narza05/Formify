@@ -2,7 +2,7 @@
 
 An AI-powered app that generates Google Forms from just a topic and number of questions. Uses Google OAuth & Forms API to save quizzes directly to the user’s Drive.
 
-<img src="https://github.com/narza05/Formify/blob/main/assets/cover_3.png" width="250" alt="Dashboard Screenshot" />
+<img src="https://github.com/narza05/Formify/blob/main/assets/cover_3.png" width="400" alt="Dashboard Screenshot" />
 
 ### 🛠️ Tech Stack
 
